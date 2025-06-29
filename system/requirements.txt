@@ -1,0 +1,13 @@
+torch>=2.1.0
+transformers>=4.43.0
+accelerate>=0.27.2
+symspellpy>=6.9.0
+python-dotenv>=1.0.1
+openai>=1.23.0
+requests>=2.31.0
+fastapi>=0.111.0
+uvicorn[standard]>=0.29.0
+tqdm>=4.66.4
+soundfile>=0.12.1
+sentencepiece>=0.2.0
+

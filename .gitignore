@@ -1,0 +1,17 @@
+__pycache__
+.vscode
+.venv
+.env
+logs
+*output
+scripts
+
+audio/*
+geckodriver-v0.36.0-linux64.tar.gz
+logging.conf
+parser.log
+.python-version
+audio_segments/*
+txt_segments/*
+*.zip
+
